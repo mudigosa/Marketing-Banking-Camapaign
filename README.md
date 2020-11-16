@@ -14,17 +14,19 @@ This repository contains models built on [Bank Marketing Data set](http://archiv
 
 [This notebook](https://nbviewer.jupyter.org/github/des137/MarketingClassification/blob/master/eda.ipynb) quickly performs the basic data exploration to ascertain the intrgrity of the data.
 
-## <a name="motivation">Motivation</a>
-One of the motivation to study this particular problem is to show the end-to-end pipeline feature of the **sklearn** library. 
-'sklearn' is a remarkably well designed library which let's one quickly prototype a data flow pipeline and test a variety of machine learning models, by chaining a set of *Estimators*, *Transformers*, and *Predictors*. [This notebook](https://nbviewer.jupyter.org/github/des137/MarketingClassification/blob/master/Model.ipynb) demonstrates the applications of the pipeline feature. 10 different models were tested on this particular dataset.
+## <a name="DATA SET INFORMATION">Motivation</a>
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+
+The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+
+## <a name="MODELS">Results</a>
+Among the machine learning models that were tested on this particular dataset, I have predicted y with different models such as SVM, Random Forest and Logistic Regression. The ac
+Output:
+
+We have to predict if the client will subscribe a term deposit or not (variable y).
 
 ## <a name="results">Results</a>
 
-Business decision usually provides a better context for deciding how many False Positives vs. False Negatives are acceptable. Below is a plot between precision, recall, and f1 score plotted against various thresholds: 
+Business decision usually provides a better context for deciding how many False Positives vs. False Negatives are acceptable.The accuracy of 89 percent is reached and implemented using Logistic Regression. 
 
-<p align="center">
-  <img src="https://github.com/des137/MarketingClassification/blob/master/images/threshold.png" width="550">
-</p>
-
-Among the machine learning models that were tested on this particular dataset, not so surprisingly, Light Gradient Boosting framework produced the best results. Obtained: **Gini = 0.87**, or equivalently, **AUC = 0.93**. The metrics/accuracy of the model is equivalent to the [an analysis](https://core.ac.uk/download/pdf/55616194.pdf) performed using CRISP-DM methodology.
 
