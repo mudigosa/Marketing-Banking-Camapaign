@@ -1,4 +1,4 @@
-# MarketingClassification
+# Sales Prediction Using Bank Marketing Data
 
 ## Contents
 
