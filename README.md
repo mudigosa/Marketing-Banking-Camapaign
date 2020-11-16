@@ -24,12 +24,12 @@ This repository contains models built on [Bank Marketing Data set](http://archiv
 
 [This notebook](https://nbviewer.jupyter.org/github/des137/MarketingClassification/blob/master/eda.ipynb) quickly performs the basic data exploration to ascertain the intrgrity of the data.
 
-## <a name="DATA SET INFORMATION">Motivation</a>
+## <a name="DATA SET INFORMATION">DATA SET INFORMATION</a>
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
 
-## <a name="MODELS">Results</a>
+## <a name="MODELS">MODELS</a>
 Among the machine learning models that were tested on this particular dataset, I have predicted y with different models such as SVM, Random Forest and Logistic Regression. The ac
 Output:
 
