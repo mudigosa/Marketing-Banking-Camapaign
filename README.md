@@ -2,11 +2,21 @@
 
 ## Contents
 
-[**1. Background**](#background)
+[**1. Requirements**](#Requirements)
+[**2. Background**](#background)
 
-[**2. Motivation**](#motivation)
+[**3. Motivation**](#motivation)
 
-[**2. Results**](#results)
+[**4. Results**](#results)
+
+## <a name="Requirements">Requirements</a>
+
+
+    Python 2.7
+    Numpy >= 1.14.2
+    Matplotlib >= 2.2.0
+    Pandas >= 0.22.0
+    Scikit-Learn >= 0.19.1
 
 ## <a name="background">Background</a>
 
