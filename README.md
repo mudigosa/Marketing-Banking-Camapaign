@@ -32,8 +32,8 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
 
-## <a name="Models">MOodels</a>
-Among the machine learning models that were tested on this particular dataset, I have predicted y with different models such as SVM, Random Forest and Logistic Regression. The ac
+## <a name="Models">Models</a>
+Among the machine learning models that were tested on this particular dataset, I have predicted y using different models such as SVM, Random Forest and Logistic Regression. The ac
 Output:
 
 We have to predict if the client will subscribe a term deposit or not (variable y).
