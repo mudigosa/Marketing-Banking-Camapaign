@@ -4,9 +4,7 @@
 
 [**1. Requirements**](#Requirements)
 
-[**2. Background**](#background)
-
-Dataset Information
+[**2. Background and Dataset Information**](#background)
 
 [**4. Models**](#Models)
 
