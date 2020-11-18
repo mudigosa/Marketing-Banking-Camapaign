@@ -36,6 +36,6 @@ The classification goal is to predict if the client will subscribe (yes/no) a te
 Among the machine learning models that were tested on this particular dataset such as SVM, Random Forest and Logistic Regression, Logistic Regression is proven to be best model and is further used to predict whether customer has subscribed to Term Deposit or not  .
 ## <a name="results">Results</a>
 
-Business decision usually provides a better context for deciding how many False Positives vs. False Negatives are acceptable.The accuracy of 89 percent is reached and implemented using Logistic Regression. 
+Business decision usually provides a better context for deciding how many False Positives vs. False Negatives are acceptable.The accuracy of 90 percent is reached and implemented using Logistic Regression. 
 
 
