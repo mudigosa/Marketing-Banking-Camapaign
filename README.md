@@ -6,7 +6,7 @@
 
 [**2. Background**](#background)
 
-[](#Dataset Information)
+Dataset Information
 
 [**4. Models**](#Models)
 
