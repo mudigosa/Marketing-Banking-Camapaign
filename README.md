@@ -6,9 +6,9 @@
 
 [**2. Background and Dataset Information**](#background)
 
-[**4. Models**](#Models)
+[**3. Models**](#Models)
 
-[**5. Results**](#results)
+[**4. Results**](#results)
 
 ## <a name="Requirements">Requirements</a>
 
